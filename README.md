@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Navid Shirmohammadi</h1>
-<h3 align="center">A passionate developer and operator from Iran</h3>
+<h3 align="center">Software Engineer and DevOps Enthusiast | Building things with React, Django and Go. Always learning!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluebye&label=Profile%20views&color=0e75b6&style=flat" alt="bluebye" /> </p>
 
 - 🔭 I’m currently working on **Ayra Project**
-
-- 🌱 I’m currently learning **Terraform,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/blueBye](https://github.com/blueBye)
 
